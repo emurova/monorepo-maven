@@ -3,13 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>au.com.infomedia</groupId>
-    <artifactId>microservices</artifactId>
+    <artifactId>menus-microservices</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
         <module>settingsSpringboot</module>
         <module>settingsDropwizard</module>
+        <module>settingsSpark</module>
     </modules>
 
 
